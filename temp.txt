@@ -1,0 +1,2 @@
+1234567,Anglebert,residential,2023-06-09 00:00:13,120
+12345678,anglebert,Non-Residential,2023-06-08 23:56:21,100
